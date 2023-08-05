@@ -1,0 +1,400 @@
+GhostNet V2
+--------------------------------------------------
+Epoch 1:
+	Loss: 0.535, Accuracy: 81.46%
+	Test Loss: 0.474, Test Accuracy: 79.94%
+	Elapsed Time: 0h 2m 57s
+	Total Elapsed Time: 0h 47m 6s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 2:
+	Loss: 0.524, Accuracy: 82.31%
+	Test Loss: 0.494, Test Accuracy: 79.78%
+	Elapsed Time: 0h 2m 57s
+	Total Elapsed Time: 0h 47m 6s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 3:
+	Loss: 0.516, Accuracy: 82.51%
+	Test Loss: 0.525, Test Accuracy: 78.10%
+	Elapsed Time: 0h 2m 57s
+	Total Elapsed Time: 0h 50m 3s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 4:
+	Loss: 0.504, Accuracy: 83.01%
+	Test Loss: 0.437, Test Accuracy: 82.73%
+	Elapsed Time: 0h 2m 56s
+	Total Elapsed Time: 0h 53m 0s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 5:
+	Loss: 0.497, Accuracy: 83.26%
+	Test Loss: 0.509, Test Accuracy: 78.38%
+	Elapsed Time: 0h 2m 56s
+	Total Elapsed Time: 0h 55m 57s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 6:
+	Loss: 0.493, Accuracy: 83.35%
+	Test Loss: 0.526, Test Accuracy: 78.10%
+	Elapsed Time: 0h 2m 57s
+	Total Elapsed Time: 0h 58m 54s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 7:
+	Loss: 0.485, Accuracy: 83.69%
+	Test Loss: 0.459, Test Accuracy: 81.66%
+	Elapsed Time: 0h 2m 56s
+	Total Elapsed Time: 1h 1m 51s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 8:
+	Loss: 0.481, Accuracy: 83.82%
+	Test Loss: 0.473, Test Accuracy: 81.15%
+	Elapsed Time: 0h 2m 56s
+	Total Elapsed Time: 1h 4m 47s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 9:
+	Loss: 0.478, Accuracy: 83.85%
+	Test Loss: 0.458, Test Accuracy: 81.67%
+	Elapsed Time: 0h 2m 56s
+	Total Elapsed Time: 1h 7m 43s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 10:
+	Loss: 0.470, Accuracy: 84.11%
+	Test Loss: 0.472, Test Accuracy: 81.38%
+	Elapsed Time: 0h 2m 56s
+	Total Elapsed Time: 1h 10m 40s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 11:
+	Loss: 0.471, Accuracy: 84.03%
+	Test Loss: 0.496, Test Accuracy: 79.70%
+	Elapsed Time: 0h 2m 55s
+	Total Elapsed Time: 1h 13m 36s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 12:
+	Loss: 0.467, Accuracy: 84.08%
+	Test Loss: 0.503, Test Accuracy: 79.12%
+	Elapsed Time: 0h 2m 56s
+	Total Elapsed Time: 1h 16m 32s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 13:
+	Loss: 0.466, Accuracy: 84.47%
+	Test Loss: 0.514, Test Accuracy: 78.28%
+	Elapsed Time: 0h 2m 55s
+	Total Elapsed Time: 1h 19m 28s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 14:
+	Loss: 0.464, Accuracy: 84.36%
+	Test Loss: 0.492, Test Accuracy: 81.67%
+	Elapsed Time: 0h 2m 56s
+	Total Elapsed Time: 1h 22m 24s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 15:
+	Loss: 0.459, Accuracy: 84.52%
+	Test Loss: 0.506, Test Accuracy: 80.54%
+	Elapsed Time: 0h 2m 55s
+	Total Elapsed Time: 1h 25m 20s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 16:
+	Loss: 0.455, Accuracy: 84.91%
+	Test Loss: 0.516, Test Accuracy: 78.65%
+	Elapsed Time: 0h 2m 55s
+	Total Elapsed Time: 1h 28m 15s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 17:
+	Loss: 0.454, Accuracy: 84.93%
+	Test Loss: 0.583, Test Accuracy: 77.18%
+	Elapsed Time: 0h 2m 55s
+	Total Elapsed Time: 1h 31m 11s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 18:
+	Loss: 0.446, Accuracy: 85.29%
+	Test Loss: 0.508, Test Accuracy: 79.85%
+	Elapsed Time: 0h 2m 55s
+	Total Elapsed Time: 1h 34m 6s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 19:
+	Loss: 0.446, Accuracy: 85.14%
+	Test Loss: 0.516, Test Accuracy: 79.57%
+	Elapsed Time: 0h 2m 56s
+	Total Elapsed Time: 1h 37m 2s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 20:
+	Loss: 0.439, Accuracy: 85.25%
+	Test Loss: 0.491, Test Accuracy: 80.45%
+	Elapsed Time: 0h 2m 57s
+	Total Elapsed Time: 1h 39m 59s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 21:
+	Loss: 0.443, Accuracy: 85.29%
+	Test Loss: 0.503, Test Accuracy: 80.35%
+	Elapsed Time: 0h 2m 57s
+	Total Elapsed Time: 1h 42m 57s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 22:
+	Loss: 0.436, Accuracy: 85.39%
+	Test Loss: 0.494, Test Accuracy: 80.44%
+	Elapsed Time: 0h 2m 57s
+	Total Elapsed Time: 1h 45m 54s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 23:
+	Loss: 0.436, Accuracy: 85.42%
+	Test Loss: 0.491, Test Accuracy: 80.45%
+	Elapsed Time: 0h 2m 57s
+	Total Elapsed Time: 1h 48m 52s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 24:
+	Loss: 0.434, Accuracy: 85.55%
+	Test Loss: 0.476, Test Accuracy: 81.57%
+	Elapsed Time: 0h 2m 58s
+	Total Elapsed Time: 1h 51m 50s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 25:
+	Loss: 0.435, Accuracy: 85.43%
+	Test Loss: 0.482, Test Accuracy: 80.77%
+	Elapsed Time: 0h 2m 57s
+	Total Elapsed Time: 1h 54m 47s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 26:
+	Loss: 0.427, Accuracy: 85.76%
+	Test Loss: 0.498, Test Accuracy: 80.52%
+	Elapsed Time: 0h 2m 55s
+	Total Elapsed Time: 1h 57m 43s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 27:
+	Loss: 0.425, Accuracy: 85.94%
+	Test Loss: 0.478, Test Accuracy: 81.11%
+	Elapsed Time: 0h 2m 55s
+	Total Elapsed Time: 2h 0m 39s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 28:
+	Loss: 0.430, Accuracy: 85.67%
+	Test Loss: 0.475, Test Accuracy: 81.51%
+	Elapsed Time: 0h 2m 55s
+	Total Elapsed Time: 2h 3m 35s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 29:
+	Loss: 0.422, Accuracy: 85.95%
+	Test Loss: 0.483, Test Accuracy: 81.06%
+	Elapsed Time: 0h 2m 55s
+	Total Elapsed Time: 2h 6m 30s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 30:
+	Loss: 0.416, Accuracy: 86.07%
+	Test Loss: 0.495, Test Accuracy: 80.94%
+	Elapsed Time: 0h 2m 55s
+	Total Elapsed Time: 2h 9m 26s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 31:
+	Loss: 0.413, Accuracy: 86.31%
+	Test Loss: 0.504, Test Accuracy: 80.67%
+	Elapsed Time: 0h 2m 55s
+	Total Elapsed Time: 2h 12m 22s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 32:
+	Loss: 0.409, Accuracy: 86.52%
+	Test Loss: 0.475, Test Accuracy: 81.51%
+	Elapsed Time: 0h 2m 56s
+	Total Elapsed Time: 2h 15m 18s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 33:
+	Loss: 0.411, Accuracy: 86.36%
+	Test Loss: 0.484, Test Accuracy: 80.78%
+	Elapsed Time: 0h 2m 55s
+	Total Elapsed Time: 2h 18m 14s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 34:
+	Loss: 0.405, Accuracy: 86.64%
+	Test Loss: 0.495, Test Accuracy: 80.10%
+	Elapsed Time: 0h 2m 55s
+	Total Elapsed Time: 2h 21m 10s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 35:
+	Loss: 0.402, Accuracy: 86.74%
+	Test Loss: 0.477, Test Accuracy: 81.11%
+	Elapsed Time: 0h 2m 55s
+	Total Elapsed Time: 2h 24m 6s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 36:
+	Loss: 0.402, Accuracy: 86.75%
+	Test Loss: 0.466, Test Accuracy: 81.70%
+	Elapsed Time: 0h 2m 56s
+	Total Elapsed Time: 2h 27m 2s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 37:
+	Loss: 0.398, Accuracy: 86.76%
+	Test Loss: 0.489, Test Accuracy: 80.28%
+	Elapsed Time: 0h 2m 56s
+	Total Elapsed Time: 2h 29m 58s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 38:
+	Loss: 0.394, Accuracy: 86.92%
+	Test Loss: 0.503, Test Accuracy: 80.12%
+	Elapsed Time: 0h 2m 56s
+	Total Elapsed Time: 2h 32m 55s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 39:
+	Loss: 0.393, Accuracy: 86.82%
+	Test Loss: 0.496, Test Accuracy: 80.54%
+	Elapsed Time: 0h 2m 56s
+	Total Elapsed Time: 2h 35m 52s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 40:
+	Loss: 0.393, Accuracy: 86.98%
+	Test Loss: 0.513, Test Accuracy: 79.18%
+	Elapsed Time: 0h 2m 56s
+	Total Elapsed Time: 2h 38m 48s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 41:
+	Loss: 0.396, Accuracy: 86.77%
+	Test Loss: 0.510, Test Accuracy: 79.65%
+	Elapsed Time: 0h 2m 57s
+	Total Elapsed Time: 2h 41m 45s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 42:
+	Loss: 0.390, Accuracy: 87.31%
+	Test Loss: 0.536, Test Accuracy: 78.69%
+	Elapsed Time: 0h 2m 56s
+	Total Elapsed Time: 2h 44m 42s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 43:
+	Loss: 0.388, Accuracy: 87.17%
+	Test Loss: 0.492, Test Accuracy: 80.85%
+	Elapsed Time: 0h 2m 57s
+	Total Elapsed Time: 2h 47m 39s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 44:
+	Loss: 0.389, Accuracy: 87.05%
+	Test Loss: 0.495, Test Accuracy: 80.66%
+	Elapsed Time: 0h 2m 56s
+	Total Elapsed Time: 2h 50m 36s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 45:
+	Loss: 0.385, Accuracy: 87.17%
+	Test Loss: 0.509, Test Accuracy: 80.24%
+	Elapsed Time: 0h 2m 56s
+	Total Elapsed Time: 2h 53m 32s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 46:
+	Loss: 0.385, Accuracy: 87.20%
+	Test Loss: 0.495, Test Accuracy: 80.91%
+	Elapsed Time: 0h 2m 56s
+	Total Elapsed Time: 2h 56m 29s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 47:
+	Loss: 0.379, Accuracy: 87.45%
+	Test Loss: 0.500, Test Accuracy: 80.62%
+	Elapsed Time: 0h 2m 56s
+	Total Elapsed Time: 2h 59m 25s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 48:
+	Loss: 0.380, Accuracy: 87.47%
+	Test Loss: 0.477, Test Accuracy: 81.21%
+	Elapsed Time: 0h 2m 56s
+	Total Elapsed Time: 3h 2m 21s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 49:
+	Loss: 0.379, Accuracy: 87.55%
+	Test Loss: 0.464, Test Accuracy: 81.35%
+	Elapsed Time: 0h 2m 57s
+	Total Elapsed Time: 3h 5m 18s
+--------------------------------------------------
+GhostNet V2
+--------------------------------------------------
+Epoch 50:
+	Loss: 0.375, Accuracy: 87.77%
+	Test Loss: 0.496, Test Accuracy: 80.56%
+	Elapsed Time: 0h 2m 57s
+	Total Elapsed Time: 3h 8m 16s
+--------------------------------------------------
